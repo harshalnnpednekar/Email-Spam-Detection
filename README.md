@@ -8,6 +8,8 @@
 
 An enterprise-grade, machine-learning-powered application designed to detect spam emails with **>97% accuracy**. This project combines a robust Natural Language Processing (NLP) pipeline with an advanced, interactive Data Discovery Dashboard built in Streamlit. 
 
+🌐 **Live Demo:** [Email Intelligence Dashboard](https://email-spam-detection-kxqfedblnguuabikvmhmtb.streamlit.app/)
+
 ---
 
 ## 📑 Table of Contents
